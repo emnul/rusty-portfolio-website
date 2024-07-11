@@ -1,0 +1,6 @@
+.git
+/.zed
+leptosfmt.toml
+rustfmt.toml
+/target
+.env
